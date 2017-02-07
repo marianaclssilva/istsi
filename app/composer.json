@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Miguel de Moura",
-            "email": "mmoura11s@gmail.com",
+            "email": "me@migueldemoura.com",
             "homepage": "https://migueldemoura.com/"
         }
     ],
@@ -28,5 +28,4 @@
 	"scripts": {
         "test": "phpunit"
 	}
-
 }
