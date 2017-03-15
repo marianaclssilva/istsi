@@ -34,7 +34,7 @@
             "Tests\\": "tests/"
         }
     },
-	"scripts": {
+    "scripts": {
         "test": "phpunit"
-	}
+    }
 }
